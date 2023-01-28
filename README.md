@@ -1,3 +1,5 @@
 # Camera controller
-Contribution by Miguel
-Fix requirements
+Contribution by Miguel    
+Contribution by other people     
+Miguel fixes requirements     
+
